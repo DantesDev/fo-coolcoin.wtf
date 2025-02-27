@@ -1184,7 +1184,7 @@
             {
               id: 3,
               step: "step 3",
-              title: "Go to Jupiter or Raydium",
+              title: "Go to Uniswap",
               desc: (0, i.jsxs)(i.Fragment, {
                 children: [
                   "Link your wallet with a decentralized exchange such as Uniswap.,",
