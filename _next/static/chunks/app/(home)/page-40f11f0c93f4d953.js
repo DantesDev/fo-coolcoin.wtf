@@ -241,7 +241,7 @@
                       className: "hidden md:block",
                       children: (0, i.jsx)(a.z, {
                         component: d(),
-                        href: "https://app.uniswap.org/swap?outputCurrency=0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                        href: "https://app.uniswap.org/swap?outputCurrency=0x45EB6C2006c739F6742219b4FfF3A0280Ec6072c",
                         target: "_blank",
                         classNames: { inner: "-mt-1.5" },
                         className:
@@ -264,7 +264,7 @@
                   className: "md:hidden flex items-center justify-center mb-4",
                   children: (0, i.jsx)(a.z, {
                     component: d(),
-                    href: "https://app.uniswap.org/swap?outputCurrency=0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    href: "https://app.uniswap.org/swap?outputCurrency=0x45EB6C2006c739F6742219b4FfF3A0280Ec6072c",
                     className:
                       "text-[24px] my-3  leading-[36px] font-normal tracking-[2px]  ",
                     variant: "filled",
@@ -1047,12 +1047,12 @@
         x = [
           {
             disabled: !1,
-            href: "https://dexscreener.com/ethereum/0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            href: "https://dexscreener.com/ethereum/0x45EB6C2006c739F6742219b4FfF3A0280Ec6072c",
             img: "/images/market.svg",
           },
           {
             disabled: !1,
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x45EB6C2006c739F6742219b4FfF3A0280Ec6072c",
             img: "/images/market5.svg",
           },
         ],
@@ -1085,7 +1085,7 @@
           desc: "",
           supply: "1,000,000,000",
           token: "token supply",
-          addess: "0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+          addess: "0x45EB6C2006c739F6742219b4FfF3A0280Ec6072c",
           titleAdress: "token address",
           copy: "/images/Group 7450.svg",
           distribution: [
@@ -1206,7 +1206,7 @@
                   " ",
                   (0, i.jsx)(r.CopyAddress, {
                     shouldOnlyCopy: !0,
-                    address: "0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                    address: "0x45EB6C2006c739F6742219b4FfF3A0280Ec6072c",
                   }),
                 ],
               }),
@@ -1218,7 +1218,7 @@
         v = {
           since: "\xa9 2025 Coolman Universe",
           contact: "",
-          contract: "0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+          contract: "0x45EB6C2006c739F6742219b4FfF3A0280Ec6072c",
           disclamer: "Disclaimer*",
           desc: "$COOL is a memecoin and has no utility. Don't risk money you are afraid of losing. The price may go up or it may go down. We are not responsible for the price of the token.",
         },
