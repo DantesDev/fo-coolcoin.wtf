@@ -1034,12 +1034,12 @@
         ],
         h = [
           {
-            href: "https://t.me/CoolmanUniverse",
+            href: "https://t.me/TheCoolCoin",
             img: "/images/telegram.svg",
             name: "telegram",
           },
           {
-            href: "https://twitter.com/CoolmanUniverse",
+            href: "https://x.com/TheCoolCoin",
             img: "/images/twitter.svg",
             name: "twitter",
           },

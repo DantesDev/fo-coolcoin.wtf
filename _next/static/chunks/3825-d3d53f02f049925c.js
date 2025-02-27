@@ -86,7 +86,7 @@
             (0, s.jsxs)("head", {
               children: [
                 (0, s.jsx)("link", {
-                  rel: "shortcut icon",
+                  rel: "icon",
                   href: "/coolman.png",
                 }),
                 (0, s.jsx)("title", { children: w.Bm.title }),
@@ -251,12 +251,12 @@
         ],
         h = [
           {
-            href: "https://t.me/CoolmanUniverse",
+            href: "https://t.me/TheCoolCoin",
             img: "/images/telegram.svg",
             name: "telegram",
           },
           {
-            href: "https://twitter.com/CoolmanUniverse",
+            href: "https://x.com/TheCoolCoin",
             img: "/images/twitter.svg",
             name: "twitter",
           },
